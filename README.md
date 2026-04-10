@@ -1,2 +1,13 @@
-# java_xiaoxiangmu
-应用Java，写的小项目
+#java_xiaoxiangmu
+Java 抽卡模拟器
+
+## 项目介绍
+单文件Java实现的抽卡模拟器，模拟游戏抽卡流程，支持单抽/十连抽、自定义卡池概率、保底机制。
+
+## 技术栈
+- Java 8+
+- 面向对象设计
+- 随机数概率算法
+
+## 运行方法
+直接编译运行 `GachaSimulator.java` 即可启动。
